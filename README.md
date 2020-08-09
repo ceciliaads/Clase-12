@@ -1,9 +1,27 @@
-# Una palabra 
+# Repositorio de la clase 12
 
-## Otra frase
+## Descripcion
 
-### Sub-titulo
+### Otro sub-titulo
 
-Simplemente escribo texto
+
+Esto es una descripcion que agrego simplemente para que lo vean.
+
+
+## URL
 
 [Ir a google](http://www.google.com)
+
+- hola
+- hola
+- hola
+
+1. hola
+2. hola
+3. hola
+
+---
+
+``` 
+aqui escribo codigo
+```
